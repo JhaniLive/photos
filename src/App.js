@@ -2,7 +2,7 @@ import "./styles.css";
 import BookCreate from "./components/BookCreate";
 import BookList from "./components/BookList";
 import { useState } from "react";
-// from windows
+// from mac
 export default function App() {
   const [books, setBooks] = useState([]);
 
